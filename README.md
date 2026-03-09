@@ -1,6 +1,8 @@
 # Migmobs — LatamDiD
+Tobias Grohmann
+Natalia Debandi
 
-Replicación en Python del análisis de diferencias en diferencias (DiD) sobre el efecto de los **Acuerdos de Libre Movimiento de Personas (FMR)** en los flujos de migración y movilidad en América Latina.
+Versión en Python del análisis de diferencias en diferencias (DiD) sobre el efecto de los **Acuerdos de Libre Movlidad de Personas (FMR)** en los flujos de migración y movilidad en América Latina.
 
 El análisis replica la lógica del script Stata `104.04_LatamDiD_03_analysis.do` (Tobias Grohmann), usando `statsmodels` (GLM Poisson) como estimador PPML.
 
