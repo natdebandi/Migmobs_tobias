@@ -1,0 +1,20 @@
+# Carpetas excluidas
+Data/
+do_files/
+Graphs/
+R_files/
+xBackups/
+.claude/
+
+# Archivos HTML generados
+*.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

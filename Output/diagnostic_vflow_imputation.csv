@@ -1,0 +1,91 @@
+iso3code_i,iso3code_j,n_missing,missing_years,tecnica,fuente_alt,n_overlap_rescale,n_interpolable,notas,n_gtmd2,n_unwto_missing
+BOL,ARG,0,,—  sin faltantes,,,,,,
+BRA,ARG,0,,—  sin faltantes,,,,,,
+CHL,ARG,0,,—  sin faltantes,,,,,,
+COL,ARG,21,"[1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]",D) Sin imputación posible,—,7,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",7.0,0.0
+ECU,ARG,21,"[1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]",D) Sin imputación posible,—,7,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",7.0,0.0
+PER,ARG,21,"[1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]",D) Sin imputación posible,—,7,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",7.0,0.0
+PRY,ARG,0,,—  sin faltantes,,,,,,
+URY,ARG,0,,—  sin faltantes,,,,,,
+VEN,ARG,21,"[1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]",D) Sin imputación posible,—,7,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",7.0,0.0
+ARG,BOL,0,,—  sin faltantes,,,,,,
+BRA,BOL,0,,—  sin faltantes,,,,,,
+CHL,BOL,0,,—  sin faltantes,,,,,,
+COL,BOL,0,,—  sin faltantes,,,,,,
+ECU,BOL,0,,—  sin faltantes,,,,,,
+PER,BOL,0,,—  sin faltantes,,,,,,
+PRY,BOL,0,,—  sin faltantes,,,,,,
+URY,BOL,0,,—  sin faltantes,,,,,,
+VEN,BOL,0,,—  sin faltantes,,,,,,
+ARG,BRA,0,,—  sin faltantes,,,,,,
+BOL,BRA,0,,—  sin faltantes,,,,,,
+CHL,BRA,0,,—  sin faltantes,,,,,,
+COL,BRA,0,,—  sin faltantes,,,,,,
+ECU,BRA,0,,—  sin faltantes,,,,,,
+PER,BRA,0,,—  sin faltantes,,,,,,
+PRY,BRA,0,,—  sin faltantes,,,,,,
+URY,BRA,0,,—  sin faltantes,,,,,,
+VEN,BRA,0,,—  sin faltantes,,,,,,
+ARG,CHL,0,,—  sin faltantes,,,,,,
+BOL,CHL,0,,—  sin faltantes,,,,,,
+BRA,CHL,0,,—  sin faltantes,,,,,,
+COL,CHL,0,,—  sin faltantes,,,,,,
+ECU,CHL,0,,—  sin faltantes,,,,,,
+PER,CHL,0,,—  sin faltantes,,,,,,
+PRY,CHL,0,,—  sin faltantes,,,,,,
+URY,CHL,0,,—  sin faltantes,,,,,,
+VEN,CHL,0,,—  sin faltantes,,,,,,
+ARG,COL,0,,—  sin faltantes,,,,,,
+BOL,COL,0,,—  sin faltantes,,,,,,
+BRA,COL,0,,—  sin faltantes,,,,,,
+CHL,COL,0,,—  sin faltantes,,,,,,
+ECU,COL,0,,—  sin faltantes,,,,,,
+PER,COL,0,,—  sin faltantes,,,,,,
+PRY,COL,1,[1995],D) Sin imputación posible,—,27,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",27.0,0.0
+URY,COL,1,[1995],D) Sin imputación posible,—,27,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",27.0,0.0
+VEN,COL,0,,—  sin faltantes,,,,,,
+ARG,ECU,0,,—  sin faltantes,,,,,,
+BOL,ECU,0,,—  sin faltantes,,,,,,
+BRA,ECU,0,,—  sin faltantes,,,,,,
+CHL,ECU,0,,—  sin faltantes,,,,,,
+COL,ECU,0,,—  sin faltantes,,,,,,
+PER,ECU,0,,—  sin faltantes,,,,,,
+PRY,ECU,9,"[1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003]",D) Sin imputación posible,—,19,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",19.0,0.0
+URY,ECU,3,"[1996, 1997, 1998]",C) Interpolación log-lineal,— (solo datos adyacentes),25,3,3/3 años faltantes son interpolables,25.0,0.0
+VEN,ECU,0,,—  sin faltantes,,,,,,
+ARG,PER,0,,—  sin faltantes,,,,,,
+BOL,PER,0,,—  sin faltantes,,,,,,
+BRA,PER,0,,—  sin faltantes,,,,,,
+CHL,PER,0,,—  sin faltantes,,,,,,
+COL,PER,0,,—  sin faltantes,,,,,,
+ECU,PER,0,,—  sin faltantes,,,,,,
+PRY,PER,0,,—  sin faltantes,,,,,,
+URY,PER,0,,—  sin faltantes,,,,,,
+VEN,PER,0,,—  sin faltantes,,,,,,
+ARG,PRY,0,,—  sin faltantes,,,,,,
+BOL,PRY,2,"[1995, 1996]",D) Sin imputación posible,—,26,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",26.0,0.0
+BRA,PRY,0,,—  sin faltantes,,,,,,
+CHL,PRY,0,,—  sin faltantes,,,,,,
+COL,PRY,3,"[1995, 1996, 2000]",C) Interpolación log-lineal,— (solo datos adyacentes),25,1,1/3 años faltantes son interpolables | 2 años en extremos — sin imputación,25.0,0.0
+ECU,PRY,3,"[1995, 1996, 2000]",C) Interpolación log-lineal,— (solo datos adyacentes),25,1,1/3 años faltantes son interpolables | 2 años en extremos — sin imputación,25.0,0.0
+PER,PRY,3,"[1995, 1996, 2000]",C) Interpolación log-lineal,— (solo datos adyacentes),25,1,1/3 años faltantes son interpolables | 2 años en extremos — sin imputación,25.0,0.0
+URY,PRY,0,,—  sin faltantes,,,,,,
+VEN,PRY,3,"[1995, 1996, 2000]",C) Interpolación log-lineal,— (solo datos adyacentes),25,1,1/3 años faltantes son interpolables | 2 años en extremos — sin imputación,25.0,0.0
+ARG,URY,2,"[2020, 2022]",C) Interpolación log-lineal,— (solo datos adyacentes),26,1,1/2 años faltantes son interpolables | 1 años en extremos — sin imputación,26.0,0.0
+BOL,URY,7,"[1996, 1997, 1998, 1999, 2020, 2021, 2022]",C) Interpolación log-lineal,— (solo datos adyacentes),21,4,4/7 años faltantes son interpolables | 3 años en extremos — sin imputación,21.0,0.0
+BRA,URY,2,"[2020, 2022]",C) Interpolación log-lineal,— (solo datos adyacentes),26,1,1/2 años faltantes son interpolables | 1 años en extremos — sin imputación,26.0,0.0
+CHL,URY,2,"[2020, 2022]",C) Interpolación log-lineal,— (solo datos adyacentes),26,1,1/2 años faltantes son interpolables | 1 años en extremos — sin imputación,26.0,0.0
+COL,URY,28,"[1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]",D) Sin imputación posible,—,0,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",0.0,0.0
+ECU,URY,28,"[1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]",D) Sin imputación posible,—,0,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",0.0,0.0
+PER,URY,7,"[1996, 1997, 1998, 1999, 2020, 2021, 2022]",C) Interpolación log-lineal,— (solo datos adyacentes),21,4,4/7 años faltantes son interpolables | 3 años en extremos — sin imputación,21.0,0.0
+PRY,URY,2,"[2020, 2022]",C) Interpolación log-lineal,— (solo datos adyacentes),26,1,1/2 años faltantes son interpolables | 1 años en extremos — sin imputación,26.0,0.0
+VEN,URY,7,"[1996, 1997, 1998, 1999, 2020, 2021, 2022]",C) Interpolación log-lineal,— (solo datos adyacentes),21,4,4/7 años faltantes son interpolables | 3 años en extremos — sin imputación,21.0,0.0
+ARG,VEN,5,"[2018, 2019, 2020, 2021, 2022]",D) Sin imputación posible,—,23,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",23.0,0.0
+BOL,VEN,9,"[2001, 2002, 2003, 2004, 2018, 2019, 2020, 2021, 2022]",C) Interpolación log-lineal,— (solo datos adyacentes),19,4,4/9 años faltantes son interpolables | 5 años en extremos — sin imputación,19.0,0.0
+BRA,VEN,5,"[2018, 2019, 2020, 2021, 2022]",D) Sin imputación posible,—,23,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",23.0,0.0
+CHL,VEN,5,"[2018, 2019, 2020, 2021, 2022]",D) Sin imputación posible,—,23,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",23.0,0.0
+COL,VEN,5,"[2018, 2019, 2020, 2021, 2022]",D) Sin imputación posible,—,23,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",23.0,0.0
+ECU,VEN,5,"[2018, 2019, 2020, 2021, 2022]",D) Sin imputación posible,—,23,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",23.0,0.0
+PER,VEN,5,"[2018, 2019, 2020, 2021, 2022]",D) Sin imputación posible,—,23,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",23.0,0.0
+PRY,VEN,9,"[2001, 2002, 2003, 2004, 2018, 2019, 2020, 2021, 2022]",C) Interpolación log-lineal,— (solo datos adyacentes),19,4,4/9 años faltantes son interpolables | 5 años en extremos — sin imputación,19.0,0.0
+URY,VEN,5,"[2018, 2019, 2020, 2021, 2022]",D) Sin imputación posible,—,23,0,"sin UNWTO, sin fuente alternativa, sin datos adyacentes",23.0,0.0
